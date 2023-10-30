@@ -1,16 +1,14 @@
-### Hi there 👋
+### Ola,seja bem vindo ao meu perfil 🏀
 
-<!--
-**lucagondro/lucagondro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Luca Gondro
+- Estou aprendendo na plataforma [alura](https://www.alura.com.br/)
+- Estou estudando a linguagem Java Script na plataforma [P5js](https://p5js.org/)
+- Utilizo esse espaço para a organização e compartilhar os meus projetos
 
-Here are some ideas to get you started:
+## Você pode entrar em contato comigo pelo 📧
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- luca.gondro@escola.pr.gov.br
+
+- @luca.gondro
+
+![](https://media.tenor.com/PKKCAakpBZIAAAAC/neyney-neymar.gif)
